@@ -3,13 +3,17 @@ print("**********************")
 
 shutters_switches = {
   ["parter"] = {
-    ["110_wiatrolap"] = { 
+    ["160_salon"] = { 
         ["taras"] = {
                 ["open"]  = 4309,
                 ["close"] = 4310
-              }
+              },
+        ["salon_p"] = {
+                ["open"]  = 4307,
+                ["close"] = 4308
+              },
       },  
-    ["160_salon"] = { }
+    ["110_wiatrolap"] = { }
   }
 }
 
