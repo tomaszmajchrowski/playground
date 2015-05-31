@@ -1,7 +1,7 @@
 local function main()
 print("**********************")
 
-shutters_switches = {
+local shutters_switches = {
   ["parter"] = {
     ["160_salon"] = { 
         ["taras"] = {
